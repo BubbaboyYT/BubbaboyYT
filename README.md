@@ -1,4 +1,3 @@
-#Hello World!
 Python/lua : Print("Hello World") 
 JS : console.log("Hello World") 
 C# : System.Console.WriteLine("Hello World"); 
